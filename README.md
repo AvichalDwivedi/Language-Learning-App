@@ -57,9 +57,6 @@ Run tests with:
 npm test
 ```
 
-## Screenshots
-Include screenshots of the platform here (e.g., dashboard, attendance page, quiz interface).
-
 ## Contributing
 Contributions are welcome! Please follow the steps below:
 1. Fork the repository.
@@ -68,10 +65,7 @@ Contributions are welcome! Please follow the steps below:
 4. Push to the branch (`git push origin feature-name`).
 5. Create a Pull Request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 For further queries, contact:
-- **Name:** Siva Prasanth M
+- **Name:** Avichal Dwivedi
 - **Email:** avichaldwivedi2530@gmail.com
