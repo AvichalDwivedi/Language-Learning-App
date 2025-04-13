@@ -17,10 +17,10 @@ const Homepage = () => {
                         <StyledTitle>
                             Welcome to
                             <br />
-                            E-Learning Platform
+                            Language Learning APP
                         </StyledTitle>
                         <StyledText>
-                        The e-learning platform provides a streamlined interface for accessing diverse educational resources, managing courses, and tracking academic progress. 
+                        The Language learning platform provides a streamlined interface for accessing diverse educational resources, managing courses, and tracking academic progress. 
                         Through intuitive navigation, users can seamlessly explore functionalities 
                         tailored to enhance the learning and teaching experience.
                         </StyledText>
