@@ -1,7 +1,7 @@
-# E-Learning Platform
+# Language Learning App Platform
 
 ## Description
-This project is an e-learning platform designed to facilitate online education management for administrators, teachers, and students. It offers distinct functionalities and features for each user role to enhance the learning experience and streamline administrative tasks within the platform.
+This project is an Language Learning App platform designed to facilitate online education management for administrators, teachers, and students. It offers distinct functionalities and features for each user role to enhance the learning experience and streamline administrative tasks within the platform.
 
 ## Features
 ### Admin
@@ -22,11 +22,10 @@ This project is an e-learning platform designed to facilitate online education m
 - Raise concerns or complaints.
 
 ## Technology Stack
-- **Frontend:** React.js, Material-UI
+- **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT, bcrypt
-- **Deployment:** Docker
 
 ## Installation
 1. Clone the repository:
