@@ -74,4 +74,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For further queries, contact:
 - **Name:** Siva Prasanth M
-- **Email:** sivabhuvan20@gmail.com
+- **Email:** avichaldwivedi2530@gmail.com
